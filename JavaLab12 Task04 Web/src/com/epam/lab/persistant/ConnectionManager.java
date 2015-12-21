@@ -35,7 +35,7 @@ public class ConnectionManager {
 			try {
 				connection = DriverManager.getConnection(properties.getProperty("url"),
 						properties.getProperty("userName"), properties.getProperty("password"));
-				System.out.println(connection);
+
 			} catch (SQLException e) {
 				throw new ResourceException(e.getMessage());
 			}

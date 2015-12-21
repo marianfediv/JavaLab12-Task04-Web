@@ -2,6 +2,7 @@
     <wb-module deploy-name="JavaLab12 Task04 Web">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/resouces"/>
         <property name="context-root" value="JavaLab12_Task04_Web"/>
         <property name="java-output-path" value="/JavaLab12 Task04 Web/build/classes"/>
     </wb-module>

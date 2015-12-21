@@ -1,0 +1,108 @@
+.navbar-inverse {
+	background-image: linear-gradient(to bottom, rgb(10, 112, 193) 0,
+		#1488E4 100%);
+}
+
+.navbar-inverse {
+	background-color: #0087F3;
+	border-color: #0087F3;
+}
+
+.navbar-fixed-top {
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
+
+body {
+	font-size: 15px;
+	background-color: #D1D0D5;
+}
+
+.navbar-nav>li .login {
+	float: right;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #FFFEFE;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover
+	{
+	color: #042675;
+	background-color: transparent;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover
+	{
+	color: #042675;
+	background-color: transparent
+}
+
+.navbar-inverse .navbar-brand {
+	color: #FFFEFE;
+}
+
+.navbar-brand {
+	font-size: 18px;
+}
+
+#user_name {
+	color: #FFFEFE;
+	float: left;
+	height: 50px;
+	padding: 15px 15px;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+@media ( min-width : 992px) .container {
+	width
+	
+	
+	
+	
+	:
+	
+	
+	 
+	
+	
+	960
+	px
+	
+	
+	
+	
+	;
+}
+
+#nav_login {
+	float: right;
+}
+
+.navbar-nav>li>.dropdown-menu {
+	margin-top: 0;
+	border-radius: 5px;
+}
+
+.navbar-fixed-top {
+	right: 30px;
+	left: 30px;
+}
+
+#image {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#text {
+	z-index: 100;
+	position: absolute;
+	color: #0B71C3;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	left: 450px;
+    top: 50px;
+}
